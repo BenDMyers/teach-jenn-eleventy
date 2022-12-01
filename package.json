@@ -11,6 +11,6 @@
 	"author": "Ben Myers <ben@benmyers.dev>",
 	"license": "ISC",
 	"dependencies": {
-		"@11ty/eleventy": "^1.0.2"
+		"@11ty/eleventy": "^2.0.0-canary.18"
 	}
 }
