@@ -1,6 +1,6 @@
 # Teach Jenn Eleventy — Pet Showcase Site
 
-We're showcasing the pets of Teach Jenn Tech on a shiny new [Eleventy](https://11ty.dev) site! This project is pretty empty to start, because we want to show how with Eleventy, you don't need to have a bunch of boilerplate to start building!
+We're showcasing the pets of [Teach Jenn Tech](https://twitch.tv/jennjunod) on a shiny new [Eleventy](https://11ty.dev) site! This project is pretty empty to start, because we want to show how with Eleventy, you don't need to have a bunch of boilerplate to start building!
 
 ## Setup
 
