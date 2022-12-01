@@ -8,6 +8,8 @@ We're showcasing the pets of Teach Jenn Tech on a shiny new [Eleventy](https://1
 2. Clone your fork.
 3. Navigate to your repo in your terminal, and run `npm install`.
 
+**Note:** We're using a canary build of Eleventy to use its unreleased dev server. To instead use the latest stable release of Eleventy, run `npm install @11ty/eleventy@latest`
+
 ## Running
 
 To run a dev server, run `npm run dev`.
